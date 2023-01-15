@@ -1,6 +1,8 @@
 NOTE:  📌⚠️ Note that this project requires a GPU to run due to the large amount of dataset. If you do not have a GPU in your local environment, you can use Google Colab to run the project.
 
 
+
+
 i.	The goal of this project is to develop a deep learning model using CNN that can accurately identify different types of potato diseases using images of infected plants.
 
 ii.	The model is trained on a dataset of potato plant images, each image labeled with the disease it represents.
