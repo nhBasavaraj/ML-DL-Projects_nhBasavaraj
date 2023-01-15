@@ -15,4 +15,5 @@ vi.	The model can be used to detect the disease in real-time, which could be use
 
 vii.	The code and the dataset used in this project are open-sourced and can be accessed from this repository.
 
-viii.	For the code, documentation and additional information, please refer to the .ipynb file in the repository.
+viii.	For the code, documentation and additional information, please refer to the [Potato Disease.ipynb](https://github.com/nhBasavaraj/nhBasavaraj/blob/main/Potato%20Disease/DS_DL_Potato_project.ipynb)
+
