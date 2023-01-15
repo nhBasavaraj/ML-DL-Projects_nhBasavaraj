@@ -7,7 +7,7 @@ i.	The goal of this project is to develop a deep learning model using CNN that c
 
 ii.	The model is trained on a dataset of potato plant images, each image labeled with the disease it represents.
 
-iii.	By using CNN and DL techniques, the model is able to recognize specific patterns and symptoms of different diseases with high accuracy.
+iii.	By using CNN techniques, the model is able to recognize specific patterns and symptoms of different diseases with high accuracy.
 
 iv.	The trained model achieved an accuracy of 99.5% to 100% on the test dataset.
 
