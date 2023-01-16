@@ -1,6 +1,0 @@
-matplotlib
-numpy
-pandas
-notebook
-tensorflow-model-optimization
-tensorflow > 2.5
