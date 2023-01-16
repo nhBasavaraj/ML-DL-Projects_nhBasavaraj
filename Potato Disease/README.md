@@ -1,4 +1,4 @@
-NOTE:  📌⚠️ Note that this project requires a GPU to run due to the large amount of dataset. If you do not have a GPU in your local environment, you can use Google Colab to run the project.
+NOTE:  📌⚠️ Note that this project requires a GPU to run due to the large amount of dataset. If you do not have a GPU in your local environment, you can use Google Colab to run the project, Here I used the [Google Colab](https://colab.research.google.com/).
 
 NOTE: 📌  For any queries or mistakes was done from my end, that need to modify Please do reach out me in [LinkedIn](https://www.linkedin.com/in/basavaraj-n-hirebidari-94982b1a9)
 
