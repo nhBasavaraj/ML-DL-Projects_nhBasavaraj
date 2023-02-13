@@ -36,12 +36,6 @@ conda install tensorflow matplotlib pandas numpy
 conda install tensorflow==2.4.0 matplotlib==3.3.3 pandas==1.2.3 numpy==1.19.4
 
 ----
-### Training the Model
-
-1. Download the data from [kaggle](https://www.kaggle.com/arjuntejaswi/plant-village).
-2. Only keep folders related to Pepper remaining you can delete.
-3. Run Jupyter Notebook or [Google Colab](https://colab.research.google.com/) in Browser.
-
 
 #### NOTE: 
 #### 📌 If in your local system contains GPU then go for Jupyter Notebook, else Go with [Google Colab](https://colab.research.google.com/) bcz this project need more computation power so google colab provides free GPU. 
