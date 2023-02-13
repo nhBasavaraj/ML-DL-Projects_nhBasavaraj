@@ -14,7 +14,7 @@ For to install Anaconda you can refer this [YouTube](https://youtu.be/Vt6loGK9Ad
 ----
 pip3 install -r requirements.txt
 
-
+Note: Below I am just showing few examples Do install all requirements listed in Requirements.txt
 #### To install specific version of the packages listed in requirements file using pip:
 
 pip install tensorflow==2.4.0 matplotlib==3.3.3 pandas==1.2.3 numpy==1.19.4
