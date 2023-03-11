@@ -1,7 +1,7 @@
 The Sales Insights Power BI Dashboard is a business intelligence tool that allows you to analyze sales data and gain insights into your sales performance. With this dashboard, you can easily visualize your sales data and track your progress against key performance indicators (KPIs).
 Data Source: The Sales Insights Power BI Dashboard was designed to work with the Atliq Hardware database.
 
-### Usage:
+##### Usage:
 The Sales Insights Power BI Dashboard is designed to help businesses track their sales in real-time. The dashboard is divided into several sections, each of which provides a different view of your sales data.
 
  • Sales Overview: This section provides an overview of your sales performance, including total sales, sales by product, and sales by region.
