@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-Machine Learning, | Deep Learning Projects
-
-NOTE: 📌  For any queries Please reach out me in [LinkedIn](https://www.linkedin.com/in/basavaraj-n-hirebidari-94982b1a9) or Mail basavaraj4370@gmail.com
+#### In this repo you can find my all Machine Learning, Deep Learning, and Power BI Projects
